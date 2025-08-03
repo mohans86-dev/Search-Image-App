@@ -6,9 +6,9 @@ A simple web application that allows users to search for high-quality images usi
 
 ## 🛠️Tech Stack
 
-HTML – for structuring the web page
-CSS – for responsive and clean styling
-JavaScript – for API integration and dynamic behavior
+HTML – for structuring the web page<br>
+CSS – for responsive and clean styling<br>
+JavaScript – for API integration and dynamic behavior<br>
 Unsplash API – to fetch real-time, royalty-free images based on user search
 
 ---
